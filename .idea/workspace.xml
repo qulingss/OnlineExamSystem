@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9385d75-3ac5-407b-83b5-d555a452810b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../wenshu/backend/wenshu_app/services/image_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wenshu/frontend/src/views/CharacterDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kpl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/camera-example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/online_exam.sql" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/online_exam.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/OnlineExamSystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/OnlineExamSystemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/controller/ExamManageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/controller/ExamManageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/controller/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/serviceimpl/ExamManageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/java/com/onlineexam/serviceimpl/ExamManageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/OnlineExamSystemApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/common/ApiResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/config/AIConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/config/DataSourceConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/config/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/config/MvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/config/ProcessContextAware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/AIGenerateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/AnswerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/CourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/ExamManageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/ExamVideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/FillQuestionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/ItemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/JudgeQuestionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/MessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/MultiQuestionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/PageSwitchRecordController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/PaperController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/ReplayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/ScoreController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/StudentCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/TeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/controller/TeacherCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/ApiResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/ExamManage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/ExamVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/FillQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/JudgeQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/MultiQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/PageSwitchRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/PaperManage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Replay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/StudentCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/entity/TeacherCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/interceptor/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/AdminMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/AnswerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/CourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/ExamManageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/ExamVideoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/FillQuestionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/JudgeQuestionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/LoginMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/MessageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/MultiQuestionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/PageSwitchRecordMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/PaperMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/ReplayMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/ScoreMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/StudentCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/TeacherCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/mapper/TeacherMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/param/AIGenerateParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/AIGenerateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/AdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/AnswerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/CourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/ExamManageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/ExamVideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/FillQuestionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/JudgeQuestionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/MultiQuestionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/PageSwitchRecordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/PaperService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/ReplayService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/ScoreService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/StudentCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/TeacherCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/service/TeacherService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/AIGenerateServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/AdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/AnswerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/CourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/ExamManageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/ExamVideoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/FillQuestionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/JudgeQuestionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/MessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/MultiQuestionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/PageSwitchRecordServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/PaperServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/ReplayServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/ScoreServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/StudentCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/TeacherCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/serviceimpl/TeacherServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/util/AIUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/util/ApiResultHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/util/TeacherUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/AIGenerateParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/AdminResetPswVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/AnswerVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/BatchSaveRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/CourseWithTeachersVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/target/classes/com/onlineexam/vo/QuestionVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/前端页面示例代码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/检查视频功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineExamSystemApi - idea/测试账号说明.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/31181/Desktop/OnlineExamSystem(1)" value="3F1daymufbc2SPgzN4kdRpmTddF" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OnlineExamSystemApi - idea" />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3F1daymufbc2SPgzN4kdRpmTddF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.OnlineExamSystemApi [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.OnlineExamSystemApplication.executor": "Run",
+    "git-widget-placeholder": "OnlineExam",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/31181/Desktop/OnlineExamSystem(1)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/OnlineExamSystemVue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b9385d75-3ac5-407b-83b5-d555a452810b" name="更改" comment="" />
+      <created>1781246579649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781246579649</updated>
+      <workItem from="1781246580897" duration="11518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
